@@ -1,0 +1,26 @@
+table,
+thead,
+tbody,
+td,
+th,
+tr{
+  border: 1px solid black;
+  padding: 5px;
+  margin: 4px;
+  border-collapse: collapse;
+  text-align: center;
+  width: 30%;
+}
+thead{
+  background-color: #ffff00;
+}
+.head1{
+  background-color: #ffff00;
+}
+.home{
+  background-color: #ffbec8;
+  padding: 50px;
+}
+td{
+  padding: 10px;
+}
